@@ -1,0 +1,100 @@
+<p align="center">
+  <img src="./github_profile_banner.png" alt="Nithiesh's Banner" width="100%" />
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3eb489&center=true&vCenter=true&width=500&lines=Hello+World,+I'm+Nithiesh!;Aspiring+Data+Scientist;AI+%26+ML+Enthusiast;Building+Intelligent+Solutions" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Generative%20AI%20%26%20Finance-3eb489?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-India-0A66C2?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://portfolio-nithieshs-1909.vercel.app/">
+    <img src="https://img.shields.io/badge/View%20Portfolio-050a12?style=for-the-badge&logo=vercel&logoColor=white&labelColor=3eb489" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/nithiesh-s-0482b924a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mksnithiesh2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+### 💫 About Me
+I am a **Data Scientist** and **AI Engineer** dedicated to transforming complex datasets into actionable intelligence. With a background in **Mathematics** and ongoing research in **Data Science & Analytics**, I bridge the gap between theoretical modeling and scalable AI applications.
+
+- 🔭 **Focus**: Specialized in Numerical Analysis, Financial Risk Modeling, and Generative AI.
+- ⚡ **Expertise**: SQL Optimization, Pythonic Data Pipelines, and Prompt Engineering.
+- 🎓 **Education**: MSc in Data Science @ **MS Ramaiah University of Applied Sciences**.
+- 🌱 **Current Goal**: Optimizing Large Language Models for domain-specific automation.
+
+---
+
+### 🚀 Featured Repositories
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">📈 NIFTY 50 Risk Pipeline</h3>
+      <p>Professional quantitative analysis toolkit for sectoral risk-adjusted performance using 20 years of historical data.</p>
+      <p align="center">
+        <a href="https://github.com/SNithiesh/nifty-50-risk-pipeline">
+          <img src="https://img.shields.io/badge/View%20Project-3776AB?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌾 IJ-REN Nexus</h3>
+      <p>Sustainable Agri-Energy Nexus optimization system utilizing real-time meteorology and decision-support modeling.</p>
+      <p align="center">
+        <a href="https://github.com/SNithiesh/ij-ren">
+          <img src="https://img.shields.io/badge/View%20Project-FF4B4B?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
+  <br>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📊 Performance & Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SNithiesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050a12" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNithiesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=050a12" width="41%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SNithiesh&color=3eb489&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SNithiesh&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <i>"Transforming complex datasets into intelligent automated solutions."</i>
+</p>
