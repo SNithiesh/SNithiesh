@@ -43,16 +43,16 @@ I am a **Data Scientist** and **AI Engineer** dedicated to transforming complex 
       <h3 align="center">📈 NIFTY 50 Risk Pipeline</h3>
       <p>Professional quantitative analysis toolkit for sectoral risk-adjusted performance using 20 years of historical data.</p>
       <p align="center">
-        <a href="https://github.com/SNithiesh/nifty-50-risk-pipeline">
+        <a href="https://github.com/SNithiesh/Stock-Price-Prediction">
           <img src="https://img.shields.io/badge/View%20Project-3776AB?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🌾 IJ-REN Nexus</h3>
-      <p>Sustainable Agri-Energy Nexus optimization system utilizing real-time meteorology and decision-support modeling.</p>
+      <h3 align="center">⚖️ Portfolio Optimization Tool</h3>
+      <p>Advanced mathematics engine (Modern Portfolio Theory) for optimal stock allocation, risk-adjusted returns, and benchmark analysis.</p>
       <p align="center">
-        <a href="https://github.com/SNithiesh/ij-ren">
+        <a href="https://github.com/SNithiesh/Portfolio-Optimization-Tool">
           <img src="https://img.shields.io/badge/View%20Project-FF4B4B?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
