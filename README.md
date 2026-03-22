@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="./github_profile_banner.png" alt="Nithiesh's Banner" width="100%" />
+  <img src="./banner.png" alt="Nithiesh's Banner" width="100%" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3eb489&center=true&vCenter=true&width=500&lines=Hello+World,+I'm+Nithiesh!;Aspiring+Data+Scientist;AI+%26+ML+Enthusiast;Building+Intelligent+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=S.+Nithiesh;Masters+in+Data+Science+%26+Gen+AI;Quantitative+Analytics+Enthusiast;Transforming+Data+into+Intelligence" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Generative%20AI%20%26%20Finance-3eb489?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Gen%20AI%20%26%20Finance-4285F4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-India-0A66C2?style=for-the-badge" />
 </p>
 
@@ -26,12 +26,13 @@
 ---
 
 ### 💫 About Me
-I am a **Data Scientist** and **AI Engineer** dedicated to transforming complex datasets into actionable intelligence. With a background in **Mathematics** and ongoing research in **Data Science & Analytics**, I bridge the gap between theoretical modeling and scalable AI applications.
+I am a **Gen AI** and **Quantitative Analytics Enthusiast** with a strong foundation in **Mathematics** and **Statistical Modeling**. Currently pursuing a **Masters in Data Science & Analytics** at **MS Ramaiah University of Applied Sciences**, I specialize in building Python-based analytical pipelines for financial risk, portfolio optimization, and market forecasting.
 
-- 🔭 **Focus**: Specialized in Numerical Analysis, Financial Risk Modeling, and Generative AI.
-- ⚡ **Expertise**: SQL Optimization, Pythonic Data Pipelines, and Prompt Engineering.
-- 🎓 **Education**: MSc in Data Science @ **MS Ramaiah University of Applied Sciences**.
-- 🌱 **Current Goal**: Optimizing Large Language Models for domain-specific automation.
+- 🔭 **Research Focus**: Financial Risk Modeling, Volatility Forecasting, and Fama-French Factor Regression.
+- ⚡ **Tech Stack**: Python (Pandas, NumPy, QuantLib), MySQL, Power BI, and Predictive Analytics.
+- 🎓 **Education**: M.Sc. in Data Science (MSRUAS) | B.Sc. in Mathematics (Loyola College, Chennai).
+- 🏆 **Experience**: Ex-Finance & Data Science Intern @ **Tinkas Industries**.
+- 🌱 **Current Goal**: Optimizing quantitative models for high-frequency financial data and GenAI automation.
 
 ---
 
@@ -40,8 +41,8 @@ I am a **Data Scientist** and **AI Engineer** dedicated to transforming complex 
 <table align="center">
   <tr>
     <td width="50%">
-      <h3 align="center">📈 NIFTY 50 Risk Pipeline</h3>
-      <p>Professional quantitative analysis toolkit for sectoral risk-adjusted performance using 20 years of historical data.</p>
+      <h3 align="center">📈 Quant Risk Dashboard</h3>
+      <p>Automated risk-analysis pipeline for NIFTY 50; featuring volatility clustering, risk-adjusted return ranking, and market risk evaluation.</p>
       <p align="center">
         <a href="https://github.com/SNithiesh/Stock-Price-Prediction">
           <img src="https://img.shields.io/badge/View%20Project-3776AB?style=flat-square&logo=github&logoColor=white" />
@@ -49,8 +50,8 @@ I am a **Data Scientist** and **AI Engineer** dedicated to transforming complex 
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">⚖️ Portfolio Optimization Tool</h3>
-      <p>Advanced mathematics engine (Modern Portfolio Theory) for optimal stock allocation, risk-adjusted returns, and benchmark analysis.</p>
+      <h3 align="center">⚖️ Portfolio Optimizer</h3>
+      <p>Advanced engine using MPT (SLSQP optimization) and Fama-French factor regression for optimal allocation and return decomposition.</p>
       <p align="center">
         <a href="https://github.com/SNithiesh/Portfolio-Optimization-Tool">
           <img src="https://img.shields.io/badge/View%20Project-FF4B4B?style=flat-square&logo=github&logoColor=white" />
@@ -96,5 +97,5 @@ I am a **Data Scientist** and **AI Engineer** dedicated to transforming complex 
 </p>
 
 <p align="center">
-  <i>"Transforming complex datasets into intelligent automated solutions."</i>
+  <i>"Leveraging mathematical rigor to build intelligent, GenAI-driven financial solutions."</i>
 </p>
