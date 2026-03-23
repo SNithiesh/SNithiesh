@@ -111,9 +111,58 @@ I am a **Gen AI** and **Quantitative Analytics Enthusiast** with a strong founda
 ### 📊 Performance & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SNithiesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050a12" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNithiesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=050a12&hide=jupyter%20notebook&langs_count=8" width="41%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SNithiesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050a12" width="55%" />
 </p>
+
+### 🧠 Languages I Work With
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<table align="center">
+  <tr>
+    <th>Language</th>
+    <th>Usage</th>
+    <th>Primary Use</th>
+  </tr>
+  <tr>
+    <td>🐍 Python</td>
+    <td><img src="https://progress-bar.xyz/75/?title=&width=200&color=3670A0" /></td>
+    <td>Data Science, ML, Quant Finance</td>
+  </tr>
+  <tr>
+    <td>📓 Jupyter Notebook</td>
+    <td><img src="https://progress-bar.xyz/60/?title=&width=200&color=FA0F00" /></td>
+    <td>EDA, ML Experiments, Reporting</td>
+  </tr>
+  <tr>
+    <td>🌐 JavaScript</td>
+    <td><img src="https://progress-bar.xyz/50/?title=&width=200&color=F7DF1E" /></td>
+    <td>React, Node.js, Full-Stack Apps</td>
+  </tr>
+  <tr>
+    <td>📊 R</td>
+    <td><img src="https://progress-bar.xyz/35/?title=&width=200&color=276DC3" /></td>
+    <td>Statistical Analysis</td>
+  </tr>
+  <tr>
+    <td>🗄️ SQL</td>
+    <td><img src="https://progress-bar.xyz/40/?title=&width=200&color=4479A1" /></td>
+    <td>Database Queries, MySQL</td>
+  </tr>
+  <tr>
+    <td>🎨 HTML / CSS</td>
+    <td><img src="https://progress-bar.xyz/30/?title=&width=200&color=E34F26" /></td>
+    <td>Web UI, Frontend Styling</td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SNithiesh&color=3eb489&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
