@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=S.+Nithiesh;Masters+in+Data+Science+%26+Gen+AI;Quantitative+Analytics+Enthusiast;Transforming+Data+into+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&width=800&lines=S.+Nithiesh;Masters+in+Data+Science+%26+Gen+AI;Quantitative+Analytics+Enthusiast;Transforming+Data+into+Intelligence" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -112,7 +112,7 @@ I am a **Gen AI** and **Quantitative Analytics Enthusiast** with a strong founda
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SNithiesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050a12" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNithiesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=050a12" width="41%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNithiesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=050a12&hide=jupyter%20notebook&langs_count=8" width="41%" />
 </p>
 
 <p align="center">
